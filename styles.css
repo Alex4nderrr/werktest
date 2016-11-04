@@ -1,0 +1,13 @@
+.model-list>li {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    z-index: 30;
+    float: left;
+    width: 166px;
+    text-align: center;
+    position: relative;
+    border: 1px solid #FFF;
+    padding: 12px 0 6px 0;
+    -webkit-transition: border-color 1s cubic-bezier(.19,1,.22,1);
+    transition: border-color 1s cubic-bezier(.19,1,.22,1);
+}
