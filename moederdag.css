@@ -1,6 +1,6 @@
 #cssSlider {
-    width: 800px;
-	height: 300px;
+    width: 100%;
+	height: auto;
 	overflow: hidden;
 	border: 10px solid #666;
     position: absolute;
@@ -9,7 +9,7 @@
 
 #sliderImages {
 	width : 4000px;
-	height: 300px;
+	height: auto;
 	overflow: hidden;
 	
 	/* animation duration: 16s : 5x ~3s display image + 5x ~0.2s slide */
