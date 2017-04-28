@@ -9,4 +9,5 @@
 .content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
 .content::-webkit-scrollbar-thumb {background-color: #30ca00; outline: 1px solid #30ca00;}
 .padding20 {padding: 20px;}
+.prijs {position: absolute;bottom: 0;right: 0;color: #4ba82e;}
 #chat-application {display: none !important;}
