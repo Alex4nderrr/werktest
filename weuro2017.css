@@ -8,7 +8,7 @@
 .autokaarttitel {font-size: 14px !important; font-weight: bold; padding: 10px; background: #ed6c25; margin: 0; color: white; text-align: center;}
 .autokaartspecs {font-size: 14px !important; font-weight: bold; padding: 10px; background: #fff; margin: 0; color: #000; border-bottom: solid #ed6c25; text-align: center;}
 .autokaartopties {font-size: 10px !important; font-weight: normal; padding: 10px; background: #fff; margin: 0; color: #000; border-bottom: solid #ed6c25; text-align: center;}
-.autokaartprijs {font-size: 14px !important; font-weight: bold; padding: 10px 10px 0px 10px; background: #fff; margin: 0; color: #ed6c25; text-align: center;}
+.autokaartprijs {font-size: 14px !important; font-weight: bold; padding: 10px 10px 0px 10px; background: #fff; margin: 0; color: #000; text-align: center;}
 .wedstrijdenrow {width: 100%;text-align: center;font-weight: bold;padding: 0px 15px 15px 15px;}
 .wedstrijdenitem {background: #fff;border: solid 1px #223979;padding: 10px;}
 .content::-webkit-scrollbar {width: 10px;}
