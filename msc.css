@@ -10,6 +10,10 @@
 .content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
 .content::-webkit-scrollbar-thumb {background-color: #223979; outline: 1px solid #f4f4f4;}
 .content::-webkit-overflow-scrolling: touch;
+.models::-webkit-scrollbar {width: 10px;}
+.models::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
+.models::-webkit-scrollbar-thumb {background-color: #223979; outline: 1px solid #f4f4f4;}
+.models::-webkit-overflow-scrolling: touch;
 .padding20 {padding: 20px;}
 #chat-application {display: none !important;}
 @media (max-width: 500px){.content{width:90%;margin-left:5%;margin-top:30%; opacity:1;}.diagonaal{border-bottom: 700px solid #ed6c25; border-left: 200px solid rgba(0, 0, 0, 0);}}
