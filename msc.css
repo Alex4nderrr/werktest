@@ -4,7 +4,7 @@
 .diagonal {display: block;height: 100%;width: 100%;position: fixed;right: 0;bottom: 0;background: #e5e5e5;}
 .content {z-index: 9960;background: #e5e5e5;position: fixed;height: 90%;margin-top: 15%;margin-left: 25%;padding-bottom:12%;width: 60%; overflow-y: overlay;}
 .HeadTekst {font-weight: bold;font-size: 50px !important;position: fixed;top: 13%;color: #bb0a30;text-shadow: 1px 1px 3px #fff;width: 59%;text-align: left; padding-left: 15px;}
-.models {white-space: nowrap; overflow-x: scroll; padding: 10px; border: solid 5px #e5e5e5; background: #fff; padding-top: 30px;}
+.models {white-space: nowrap; overflow-x: scroll; padding: 10px; background: #fff; padding-top: 30px;}
 .models-row {background: #fff; border: solid 5px #e5e5e5; margin-right: 0px !important; margin-left: 0px !important;}
 .models-item {display:inline-block; white-space:normal; float: none !important; transition: 1s; cursor: pointer;}
 .models-item:hover {background: #e5e5e5;}
