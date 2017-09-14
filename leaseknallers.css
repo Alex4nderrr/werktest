@@ -21,5 +21,6 @@
 @media (max-width: 500px){.content{width:90%;margin-left:5%;margin-top:30%; opacity:1;}.diagonaal{border-bottom: 700px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
 @media (max-width: 500px){.diagonal{border-bottom: 1000px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
 @media (max-width: 500px){.HeadTekst{font-weight: bold; font-size: 25px !important; position: fixed; top: 110px; color: #ffffff; text-shadow: 0px 0px 10px #000000;}}
-@media (max-width: 500px){.filter{height: 150px !important}}
+@media (max-width: 500px){.filter{height: 100px !important}}
 @media (max-width: 500px){.logo{display: none}}
+@media (max-width: 500px){.filter-info{display: none}}
