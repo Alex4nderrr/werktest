@@ -1,8 +1,10 @@
 .BlackPicure {position: fixed; z-index: 9900; top: 0; width: 100%; height: 100%; left: 0; background-color: #fff;}
 .background {width: 100%; position: fixed; z-index: 15; background-color: #f9f9f9; height: 100%; top: 0; left: 0;}
+.background-new {width: 100%; position: fixed; z-index: 15; background-color: #f9f9f9; background: url(http://audicentrumrotterdam.mycloudapp.nl/media/header.png) no-repeat #000; height: 100%; top: 0; left: 0; background-size: contain;}
 .rss-feed {width: 100%; height: 50px; background: #ed6c25; margin-bottom: 10px;}
 .diagonal {display: block;height: 100%;width: 100%;position: fixed;right: 0;bottom: 0;background: #e5e5e5;}
 .content {z-index: 9960;background: #e5e5e5;position: fixed;height: 90%;margin-top: 15%;margin-left: 25%;padding-bottom:20%;width: 60%; overflow-y: overlay;}
+.content-new {z-index: 9960;position: fixed;height: 90%;margin-top: 15%;margin-left: 25%;padding-bottom:20%;width: 60%; overflow-y: overlay;}
 .HeadTekst {font-weight: bold;font-size: 50px !important;position: fixed;top: 13%;color: #bb0a30;text-shadow: 1px 1px 3px #fff;width: 59%;text-align: left; padding-left: 15px;}
 .models {white-space: nowrap; overflow-x: scroll; padding: 10px; background: #fff; padding-top: 30px;}
 .models-row {background: #fff; border: solid 5px #e5e5e5; margin-right: 0px !important; margin-left: 0px !important;}
