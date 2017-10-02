@@ -29,7 +29,7 @@
 .info-block-row-extended{margin:0;padding:10px 0px 10px 0px;color:#b3b3b3;border-bottom:solid 1px #f3f3f3;font-size:12px;}
 .info-block-row{margin:0;padding:10px 0px 10px 0px;color:#b3b3b3;border-bottom:solid 1px #f3f3f3;font-size:12px}
 .info-block-row-last{margin:0;padding:10px 0px 10px 0px;color:#b3b3b3;font-size:12px}
-.text-header{position:absolute;left:0;bottom:0;width:100%;background:#bb0a30;color:#fff;padding:10px}
+.text-header{position:absolute;left:0;bottom:0;width:100%;background:#bb0a30;color:#fff;padding:15px; font-weight: bold;}
 #chat-application {display: none !important;}
 @media (max-width: 500px){.content{width:90%;margin-left:5%;margin-top:30%; opacity:1;}.diagonaal{border-bottom: 700px solid #ed6c25; border-left: 200px solid rgba(0, 0, 0, 0);}}
 @media (max-width: 500px){.diagonal{border-bottom: 1000px solid #ed6c25; border-left: 200px solid rgba(0, 0, 0, 0);}}
