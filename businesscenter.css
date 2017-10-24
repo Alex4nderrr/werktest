@@ -6,7 +6,7 @@
 .content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
 .content::-webkit-scrollbar-thumb {background-color: #004c7d; outline: 1px solid #004c7d;}
 .content::-webkit-overflow-scrolling: touch;
-#page-header:after {content: none !important; display: none !important;}
+#page-header::after {content: none !important; display: none !important;}
 #chat-application {display: none !important;}
 @media (max-width: 500px){.content{width:90%;margin-left:5%;margin-top:50%; opacity:1;}.diagonaal{border-bottom: 700px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
 @media (max-width: 500px){.diagonal{border-bottom: 1000px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
