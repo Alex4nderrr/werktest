@@ -7,6 +7,7 @@
 .content::-webkit-scrollbar-thumb {background-color: #004c7d; outline: 1px solid #004c7d;}
 .content::-webkit-overflow-scrolling: touch;
 :after {display: none !important;}
+#page-footer {left: 0 !important; padding-left: 150px !important;}
 #page-header::after {content: none !important; display: none !important;}
 #chat-application {display: none !important;}
 @media (max-width: 500px){.content{width:90%;margin-left:5%;margin-top:50%; opacity:1;}.diagonaal{border-bottom: 700px solid #0068aa; border-left: 200px solid rgba(0, 0, 0, 0);}}
