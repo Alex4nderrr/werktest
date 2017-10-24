@@ -6,6 +6,83 @@
 .content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
 .content::-webkit-scrollbar-thumb {background-color: #004c7d; outline: 1px solid #004c7d;}
 .content::-webkit-overflow-scrolling: touch;
+
+.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{margin:0;padding:0}
+.header-item{float:right;border-right:1px solid #E9E9E9;font-weight:700;color:#777;padding:0 20px}
+.header-item-last{float:right;font-weight:700;color:#777;padding:0 20px;border:solid}
+section.header{padding:20px;width:100%;border-bottom:solid 1px #d3ffff;height:70px}
+section.welcome{background:url(media/fleetsalesheader.png) #00ab71;padding:30px;transition:1s;background-size:cover;height:400px;background-position:50%;text-align:center}
+section.quotes{background:#fff;padding:50px 30px}
+section.voordelen{background:url(media/ruit_blauw.png) #0D5A76;padding:30px;transition:1s}
+section.team{background:#fff;padding:70px 30px}
+section.leasevormen{background:url(media/ruit_groen.png) #00ab71;padding:30px;transition:1s}
+section.locatie{background:url(media/kaart.png) 80% #fff;padding:30px;height:500px;width:100%;position:relative}
+section.footer{padding:20px;width:100%;border-bottom:solid 1px #d3ffff;height:70px;text-align:center}
+.welcome-header-black{display:inline-block;color:#000;font-size:50px;text-shadow:0 0 10px #fff;display:none}
+.welcome-header-white{display:inline-block;color:#fff;font-size:50px;text-shadow:0 0 10px #000;display:none}
+.welcome-header-text{color:#fff;padding:20px;text-shadow:3px 3px 10px #000;text-align:justify}
+.quotes-text{display:none;font-size:30px;color:#6f6e72;font-style:italic;padding:10px;color:#fff}
+.quotes-description{text-align:justify;padding:20px 0}
+.voordelen-description{color:#fff;text-align:justify;margin-top:30px}
+.voordelen-row{margin-bottom:10px;color:#fff;font-size:18px}
+.voordelen-row-left{display:inline-block;width:10%}
+.voordelen-row-right{display:inline-block;width:80%;text-align:left}
+.leasevormen-text{text-align:left;color:#fff}
+.leasevormen-block{background:#fff;margin:20px 0;position:relative}
+.leasevormen-block-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-top:30px solid #e7e7e7;position:absolute;left:42.9%;box-shadow:0 -3px 21px -12px rgba(0,0,0,.8)}
+.leasevormen-info{text-align:left;background:#fff;padding:20px;width:98.3%;position:relative;margin-top:50px}
+.leasevormen-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:30px solid #fff;position:absolute;top:-25px;left:47.7%}
+.leasevormen-block-header{background:#d7d7d7;padding:10px;color:#fff;transition:1s;cursor:pointer}
+.leasevormen-block-header:hover{background:#67bda0;color:#fff}
+.leasevormen-block-text{padding:10px;text-align:left;transition:1s;background:url(media/ruit_wit.png) #fff}
+.leasevormen-block-text:hover{background:#6fc5a7;color:#000;background:url(media/ruit_wit.png) #fff}
+.team-block{margin:20px 0;margin-bottom:70px;background:url(media/ruit_wit.png) #f9f9f9;transition:1s}
+.team-block:hover{background:url(media/ruit_blauw.png) #6e94a2;color:#fff}
+.team-foto{width:50%;margin-top:-50px;transform:rotate(3deg)}
+.team-row{padding-top:10px}
+.team-row-name{padding-top:10px;font-size:25px}
+.team-row-function{padding-top:10px;color:#6e94a2}
+.team-info{padding-top:10px}
+.team-info-left{display:inline-block;width:10%}
+.team-info-right{display:inline-block;width:80%}
+.locatie-vlaardingen{position:absolute;left:47%;top:18%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-vlaardingen:hover{transform:rotate(15deg);color:#6e94a2}
+.locatie-noord{position:absolute;left:84%;top:10%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-noord:hover{transform:rotate(15deg);color:#6e94a2}
+.locatie-carma-1{position:absolute;left:86%;top:39%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-carma-1:hover{transform:rotate(-15deg);color:#6e94a2}
+.locatie-carma-2{position:absolute;left:89%;top:37%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-carma-2:hover{transform:rotate(15deg);color:#6e94a2}
+.locatie-barendrecht{position:absolute;left:79%;top:80%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-barendrecht:hover{transform:rotate(15deg);color:#6e94a2}
+.locatie-zuid-1{position:absolute;left:63%;top:60%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(-50deg);transition:1s;cursor:pointer}
+.locatie-zuid-2{position:absolute;left:65%;top:57%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(-10deg);transition:1s;cursor:pointer}
+.locatie-zuid-3{position:absolute;left:67%;top:57%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(10deg);transition:1s;cursor:pointer}
+.locatie-zuid-4{position:absolute;left:69%;top:60%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(50deg);transition:1s;cursor:pointer}
+.locatie-zuid-1:hover{color:#6e94a2}
+.locatie-zuid-2:hover{color:#6e94a2}
+.locatie-zuid-3:hover{color:#6e94a2}
+.locatie-zuid-4:hover{color:#6e94a2}
+.locatie-spijkenisse-1{position:absolute;left:40%;top:80%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-spijkenisse-1:hover{transform:rotate(-15deg);color:#6e94a2}
+.locatie-spijkenisse-2{position:absolute;left:42%;top:84%;font-size:70px;color:#00ab71;text-shadow:5px 5px 5px #c7c7c7;transform:rotate(0deg);transition:1s;cursor:pointer}
+.locatie-spijkenisse-2:hover{transform:rotate(15deg);color:#6e94a2}
+.locatie-zuid-info{display:none;position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.75);top:0;left:0;color:#fff;padding-top:100px;padding-right:25%;padding-left:25%;margin-right:auto;margin-left:auto}
+.locatie-zuid-close{position:absolute;top:25px;right:25px;font-size:50px;color:#fff}
+.locatie-noord-info{display:none;position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.75);top:0;left:0;color:#fff;padding-top:100px;padding-right:25%;padding-left:25%;margin-right:auto;margin-left:auto}
+.locatie-noord-close{position:absolute;top:25px;right:25px;font-size:50px;color:#fff}
+.locatie-spijkenisse-1-info{display:none;position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.75);top:0;left:0;color:#fff;padding-top:100px;padding-right:25%;padding-left:25%;margin-right:auto;margin-left:auto}
+.locatie-spijkenisse-1-close{position:absolute;top:25px;right:25px;font-size:50px;color:#fff}
+.locatie-spijkenisse-2-info{display:none;position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.75);top:0;left:0;color:#fff;padding-top:100px;padding-right:25%;padding-left:25%;margin-right:auto;margin-left:auto}
+.locatie-spijkenisse-2-close{position:absolute;top:25px;right:25px;font-size:50px;color:#fff}
+.locatie-vlaardingen-info{display:none;position:absolute;width:100%;height:100%;background:rgba(0,0,0,0.75);top:0;left:0;color:#fff;padding-top:100px;padding-right:25%;padding-left:25%;margin-right:auto;margin-left:auto}
+.locatie-vlaardingen-close{position:absolute;top:25px;right:25px;font-size:50px;color:#fff}
+@media screen and (min-width: 600px) {
+  .leasevormen-block{margin:20px 20px 20px 0;width:calc(33.33% - 20px)}
+  .leasevormen-block-text{min-height:200px}
+  .team-block{min-height:300px;margin:20px 20px 20px 0;margin-bottom:70px;width:calc(33.33% - 20px)}
+}
+
 :after {display: none !important;}
 #page-footer {left: 0 !important; padding-left: 150px !important;}
 #page-header::after {content: none !important; display: none !important;}
