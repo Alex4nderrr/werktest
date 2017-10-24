@@ -1,5 +1,5 @@
 .BlackPicure {position: fixed; z-index: 9900; top: 0; width: 100%; height: 100%; left: 0; background-color: #fff;}
-.background {width: 100%; position: fixed; z-index: 15; background-color: #f9f9f9; height: 100%; top: 0; left: 0;}
+.background {width: 100%; position: fixed; z-index: 15; background-color: #35a1cc; height: 100%; top: 0; left: 0;}
 .filter {width: 100%; height: 50px; background: #0068aa; margin-bottom: 10px;}
 .filteritem {height: 50px; background: none; border: none; font-weight: bold; color: white; padding: 15px; text-align: left;}
 .filteritem.selected {opacity: 0.5; text-decoration: line-through;}
@@ -11,9 +11,9 @@
 .autokaartspecs {font-size: 14px !important; font-weight: bold; padding: 10px; background: #fff; margin: 0; color: #000; border-bottom: solid #0068aa; text-align: center;}
 .autokaartopties {font-size: 10px !important; font-weight: normal; padding: 10px; background: #fff; margin: 0; color: #000; border-bottom: solid #0068aa; text-align: center;}
 .autokaartprijs {font-size: 14px !important; font-weight: bold; padding: 10px 10px 0px 10px; background: #fff; margin: 0; color: #0068aa; text-align: center;}
-.drie-punten {display: inline-flex; color: #fff; font-weight: bold; width: 100%; border-bottom: solid #db6874 3px;}
-.drie-punten-item {width: 25%; padding: 10px; margin: 0; text-align: center; color: #db6874; background: #fff;}
-.drie-punten-contact {width: 25%; padding: 10px; margin: 0; text-align: center; background: #db6874;}
+.drie-punten {display: inline-flex; color: #fff; font-weight: bold; width: 100%; border-bottom: solid #f60 3px;}
+.drie-punten-item {width: 25%; padding: 10px; margin: 0; text-align: center; color: #f60; background: #fff;}
+.drie-punten-contact {width: 25%; padding: 10px; margin: 0; text-align: center; background: #f60;}
 .content::-webkit-scrollbar {width: 10px;}
 .content::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);}
 .content::-webkit-scrollbar-thumb {background-color: #004c7d; outline: 1px solid #004c7d;}
