@@ -43,8 +43,8 @@
 .team-row{padding-top:10px}
 .team-row-name{padding-top:20px;}
 .team-row-function{padding: 10px;color: #6e94a2;background: #fff;font-weight: bold;font-family: 'DIN Next W01 Medium',Arial,Helvetica,sans-serif;font-size: 14px !important;}
-.team-row-phone{margin: 0;font-size: 14px;}
-.team-row-email{margin: 0;font-size: 14px;}
+.team-row-phone{margin: 0;font-size: 14px !important;}
+.team-row-email{margin: 0;font-size: 14px !important;}
 .team-info{padding-bottom:10px}
 .team-info-left{display:inline-block;width:10%}
 .team-info-right{display:inline-block;width:80%}
