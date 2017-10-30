@@ -26,7 +26,7 @@
 .quotes-description{text-align:justify;padding:20px 0}
 .voordelen-description{color:#fff;text-align:justify;margin-top:30px}
 .voordelen-row{margin-bottom:10px;color:#fff;font-size:18px}
-.voordelen-row-left{display:inline-block;width:10%}
+.voordelen-row-left{display:inline-block;width:10%;text-align: left;}
 .voordelen-row-right{display:inline-block;width:80%;text-align:left}
 .leasevormen-text{text-align:left;color:#fff}
 .leasevormen-block{background:#fff;margin:20px 0;position:relative; padding: 0;}
