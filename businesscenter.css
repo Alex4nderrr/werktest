@@ -28,7 +28,7 @@
 .voordelen-row-left{display:inline-block;width:10%}
 .voordelen-row-right{display:inline-block;width:80%;text-align:left}
 .leasevormen-text{text-align:left;color:#fff}
-.leasevormen-block{background:#fff;margin:20px 0;position:relative}
+.leasevormen-block{background:#fff;margin:20px 0;position:relative padding: 0;}
 .leasevormen-block-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-top:30px solid #e7e7e7;position:absolute;left:42.9%;box-shadow:0 -3px 21px -12px rgba(0,0,0,.8)}
 .leasevormen-info{text-align:left;background:#fff;padding:20px;width:98.3%;position:relative;margin-top:50px}
 .leasevormen-arrow{width:0;height:0;border-left:30px solid transparent;border-right:30px solid transparent;border-bottom:30px solid #fff;position:absolute;top:-25px;left:47.7%}
