@@ -47,6 +47,7 @@
 .team-info-left{display:inline-block;width:10%}
 .team-info-right{display:inline-block;width:80%}
 .locatie-title{font-size: 50px !important;color: #6fc5a7;text-align: center;background: rgba(255, 255, 255, 0.75);padding-top: 10px;margin-top: 80px;}
+.locatie-button{margin-top: -10px;background: #fff;font-size: 20px !important;padding-bottom: 5px;color: #6fc5a7;text-align: center;padding-top: 10px;}
 @media screen and (min-width: 600px) {
   .leasevormen-block{margin:20px 20px 20px 0;width:calc(33.33% - 20px)}
   .leasevormen-block-text{min-height:200px}
