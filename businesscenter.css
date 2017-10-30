@@ -41,9 +41,11 @@
 .team-block:hover{background:url(https://www.autohoogenboom.nl/content/files/Images/Auto_Hoogenboom/Content_images/BusinessCenter/ruit_blauw.png) 70% #6e94a2;color:#fff !important;}
 .team-foto{width:50%;margin-top:-50px;transform:rotate(3deg)}
 .team-row{padding-top:10px}
-.team-row-name{padding-top:10px;font-size:25px}
+.team-row-name{padding-top:20px;}
 .team-row-function{padding: 10px;color: #6e94a2;background: #fff;font-weight: bold;font-family: 'DIN Next W01 Medium',Arial,Helvetica,sans-serif;font-size: 14px !important;}
-.team-info{padding-top:10px}
+.team-row-phone{margin: 0;font-size: 14px;}
+.team-row-email{margin: 0;font-size: 14px;}
+.team-info{padding-bottom:10px}
 .team-info-left{display:inline-block;width:10%}
 .team-info-right{display:inline-block;width:80%}
 .locatie-title{font-size: 50px !important;color: #6fc5a7;text-align: center;background: rgba(255, 255, 255, 0.75);padding-top: 10px;margin-top: 80px;}
