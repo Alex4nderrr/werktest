@@ -42,7 +42,7 @@
 .team-foto{width:50%;margin-top:-50px;transform:rotate(3deg)}
 .team-row{padding-top:10px}
 .team-row-name{padding-top:10px;font-size:25px}
-.team-row-function{padding-top:10px;color:#6e94a2;background: #fff;}
+.team-row-function{padding:10px;color:#6e94a2;background: #fff;}
 .team-info{padding-top:10px}
 .team-info-left{display:inline-block;width:10%}
 .team-info-right{display:inline-block;width:80%}
