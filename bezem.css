@@ -11,7 +11,7 @@
 .B-content-block:hover{background: #fafafa;}
 .B-content-block-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;padding-top: 1px;}
 .B-content-block-price{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;}
-.B-content-block-button{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;color: #ff6633;cursor:pointer; padding: 10px;}
+.B-content-block-button{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;color: #ff6633;cursor:pointer; padding: 10px;transition: 0.5s;}
 
 .B-left{text-align: left !important;}
 .B-center{text-align: center !important;}
