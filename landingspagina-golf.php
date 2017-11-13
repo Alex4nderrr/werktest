@@ -6,8 +6,8 @@
 .G-center{text-align: center !important;}
 .G-right{text-align: right !important;}
 
-.lSPrev {display: none !important;}
-.lSNext {display: none !important;}
+.lSAction > .lSPrev {display: none !important;}
+.lSAction > .lSNext {display: none !important;}
 
 body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
