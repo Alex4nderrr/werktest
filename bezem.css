@@ -1,4 +1,4 @@
-.B-content{width: 100%;position: absolute;z-index: 20;background-color: #f1f1f1;min-height: 100%;top: -23px;left: 0;background-size: contain;padding-bottom: 100px;}
+.B-content{width: 100%;position: absolute;z-index: 20;background-color: #f1f1f1;min-height: 100%;top: -23px;left: 0;background-size: contain;padding-bottom: 100px;overflow-y: scroll;height: 100%;}
 .B-content p{margin:0;}
 .B-blaadjes{position: absolute; top: 100px; left: 0; width: 368px !important;}
 .B-background{width:100%;height:400px;position:absolute}
@@ -34,3 +34,7 @@ body {overflow: scroll !important;}
 body::-webkit-scrollbar-track {background-color: #202020 !important;}
 body::-webkit-scrollbar {width: 10px !important; background-color: #ffffff !important;}
 body::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
+
+B-content::-webkit-scrollbar-track {background-color: #202020 !important;}
+B-content::-webkit-scrollbar {width: 0px !important; background-color: #ffffff !important;}
+B-content::-webkit-scrollbar-thumb {background-color: #ffffff !important;}
