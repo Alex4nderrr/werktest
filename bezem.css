@@ -10,7 +10,7 @@
 .B-content-title{font-weight: bold; display: inline-block; font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif; margin-top: 50px !important; font-size: 20px;margin-bottom: 25px !important;}
 .B-content-block{background: #fff; border-left: 15px solid #f1f1f1; border-right: 15px solid #f1f1f1; margin-bottom: 30px; padding: 25px;cursor: pointer;transition: 0.5s;}
 .B-content-block:hover{background: #fafafa; box-shadow: rgb(255, 255, 255) 0px 0px 1px 5px inset;}
-.B-content-block-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;padding-top: 15px;}
+.B-content-block-title{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;padding-top: 15px; padding-left: 15px;}
 .B-content-block-tag{font-size: 12px; text-align: left; margin-left: 5px !important;}
 .B-content-block-price{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;}
 .B-content-block-button{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;font-size: 2.5vh;font-weight: bold;color: #ff6633;cursor:pointer; padding: 10px;transition: 0.5s;}
