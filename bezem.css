@@ -19,7 +19,8 @@
 
 .B-inruilvoorstel-title{font-size: 20px; font-weight: bold;}
 .B-inruilvoorstel-input{width: 100%; padding: 10px; margin-bottom: 15px;}
-.B-inruilvoorstel-button{width: 100%; padding: 10px; background: #2d84c2; color: #fff; border: 0; margin-top: 15px; font-weight: bold;}
+.B-inruilvoorstel-button{width: 100%; padding: 10px; background: #2d84c2; color: #fff; border: 0; margin-top: 15px; font-weight: bold; cursor: pointer;}
+.B-inruilvoorstel-button:hover{background: #2173ab;}
 
 .B-left{text-align: left !important;}
 .B-center{text-align: center !important;}
