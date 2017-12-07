@@ -17,6 +17,10 @@
 .B-disclaimer-text{font-family: "DIN Next W01 Regular", Arial, Helvetica, sans-serif;color: #999999;}
 .B-ul{padding-left: 15px;}
 
+.B-inruilvoorstel-title{font-size: 20px; font-weight: bold;}
+.B-inruilvoorstel-input{width: 100%; padding: 10px; margin-bottom: 15px;}
+.B-inruilvoorstel-button{width: 100%; padding: 10px; background: #2d84c2; color: #fff; border: 0; margin-top: 15px; font-weight: bold;}
+
 .B-left{text-align: left !important;}
 .B-center{text-align: center !important;}
 .B-right{text-align: right !important;}
